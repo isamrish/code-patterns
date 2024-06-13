@@ -8,7 +8,7 @@ Here is very basic implementation of Singleton pattern in Javascript.
 class Singleton {
   constructor() {
     if(!Singleton.instance) {
-      Singleton.instance = new Singleton();
+      Singleton.instance = this;
     }
     return Singleton.instance;
   }
