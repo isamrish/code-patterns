@@ -1,4 +1,4 @@
-# Tools and libraries for development
+# Useful tools and libraries
 
 | Name          | Website       |   GitHub     |
 | ------------- | ------------- | ------------ |
